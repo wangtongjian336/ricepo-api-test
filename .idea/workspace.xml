@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a0d4d96-42a6-4c1b-bfb9-a1877a60dee2" name="Default Changelist" comment="" />
+    <list default="true" id="9a0d4d96-42a6-4c1b-bfb9-a1877a60dee2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/restaurantPage/test_1_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/restaurantPage/test_1_search.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +17,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nKAaqjOzXEq0ERVg7Y7VXoft5o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/testCase" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -167,6 +176,7 @@
       <workItem from="1611128480180" duration="6243000" />
       <workItem from="1611192174324" duration="11179000" />
       <workItem from="1611557579358" duration="14518000" />
+      <workItem from="1611631713626" duration="252000" />
     </task>
     <servers />
   </component>
@@ -264,7 +274,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ricepo_api_test$Unittests_for_test_1_search_restaurantPageTest_test_search.coverage" NAME="Unittests for test_1_search.restaurantPageTest.test_search Coverage Results" MODIFIED="1611212581904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/restaurantPage" />
     <SUITE FILE_PATH="coverage/ricepo_api_test$Unittests_for_test_1_search_TestUserLogin.coverage" NAME="Unittests for test_1_search.TestUserLogin Coverage Results" MODIFIED="1611129738532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/restaurantList" />
-    <SUITE FILE_PATH="coverage/ricepo_api_test$runtestcase.coverage" NAME="runtestcase Coverage Results" MODIFIED="1611582220598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ricepo_api_test$runtestcase.coverage" NAME="runtestcase Coverage Results" MODIFIED="1611632382685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ricepo_api_test$Unittests_for_test_1_search_restaurantPageTest_test_02.coverage" NAME="Unittests for test_1_search.restaurantPageTest.test_02 Coverage Results" MODIFIED="1611224130210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/restaurantPage" />
     <SUITE FILE_PATH="coverage/ricepo_api_test$Unittests_for_test_1_search_restaurantPageTest.coverage" NAME="Unittests for test_1_search.restaurantPageTest Coverage Results" MODIFIED="1611225602899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/restaurantPage" />
     <SUITE FILE_PATH="coverage/ricepo_api_test$Unittests_in_test_1_search_py.coverage" NAME="Unittests in test_1_search.py Coverage Results" MODIFIED="1611225411554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/restaurantPage" />
