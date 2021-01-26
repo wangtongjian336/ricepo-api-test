@@ -33,7 +33,7 @@ class restaurantPageTest(unittest.TestCase):
         headers = self.headers
         result = requests.get(url, headers=headers).json()
         print(result[0]['items'][0]['name']['zh-CN'])
-        self.assertEqual(result[0]['items'][0]['name']['zh-CN'], '烤羊腿123')
+        self.assertEqual(result[0]['items'][0]['name']['zh-CN'], '烤羊腿12345')
 
     def tearDown(self):
         pass
