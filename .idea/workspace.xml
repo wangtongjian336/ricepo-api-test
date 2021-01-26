@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a0d4d96-42a6-4c1b-bfb9-a1877a60dee2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nKAaqjOzXEq0ERVg7Y7VXoft5o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testCase" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testCase" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.runtestcase">
+    <configuration name="getAuth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ricepo-api-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/getAuth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runtestcase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ricepo-api-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runtestcase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sentEmail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ricepo-api-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/sentEmail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_1_search.restaurantPageTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ricepo-api-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase/restaurantPage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_1_search.restaurantPageTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_1_search.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ricepo-api-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase/restaurantPage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testCase/restaurantPage/test_1_search.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runtestcase" />
+        <item itemvalue="Python.sentEmail" />
+        <item itemvalue="Python tests.Unittests for test_1_search.restaurantPageTest" />
+        <item itemvalue="Python tests.Unittests in test_1_search.py" />
+        <item itemvalue="Python.getAuth" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a0d4d96-42a6-4c1b-bfb9-a1877a60dee2" name="Default Changelist" comment="" />
+      <created>1611128474128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611128474128</updated>
+      <workItem from="1611128480180" duration="6243000" />
+      <workItem from="1611192174324" duration="11179000" />
+      <workItem from="1611557579358" duration="14518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="160" width="1071" height="699" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611129682498">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="399" y="160" width="1071" height="699" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-72.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1611129682498" />
+    <state x="688" y="370" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1611583778989">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="688" y="370" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1024@0.0.1920.1024" timestamp="1611583778989" />
+    <state x="698" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611559796146">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="698" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.-72.1920.1080/0.0.1920.1024@0.0.1920.1024" timestamp="1611559796146" />
+    <state width="1878" height="335" key="GridCell.Tab.0.bottom" timestamp="1611589508115">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1729" height="335" key="GridCell.Tab.0.bottom/-1440.0.1440.900/0.0.1920.1024@0.0.1920.1024" timestamp="1611160906647" />
+    <state width="1729" height="335" key="GridCell.Tab.0.bottom/-1920.-49.1920.1057/0.23.1920.1001@0.23.1920.1001" timestamp="1611191327357" />
+    <state width="1878" height="369" key="GridCell.Tab.0.bottom/-1920.-72.1920.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1611206647743" />
+    <state width="1878" height="309" key="GridCell.Tab.0.bottom/-1920.-72.1920.1080/0.0.1920.1024@0.0.1920.1024" timestamp="1611570851311" />
+    <state width="1878" height="309" key="GridCell.Tab.0.bottom/-1920.-72.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1611225996021" />
+    <state width="1878" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1024@0.0.1920.1024" timestamp="1611589508115" />
+    <state width="1878" height="335" key="GridCell.Tab.0.center" timestamp="1611589508114">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1729" height="335" key="GridCell.Tab.0.center/-1440.0.1440.900/0.0.1920.1024@0.0.1920.1024" timestamp="1611160906646" />
+    <state width="1729" height="335" key="GridCell.Tab.0.center/-1920.-49.1920.1057/0.23.1920.1001@0.23.1920.1001" timestamp="1611191327357" />
+    <state width="1878" height="369" key="GridCell.Tab.0.center/-1920.-72.1920.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1611206647742" />
+    <state width="1878" height="309" key="GridCell.Tab.0.center/-1920.-72.1920.1080/0.0.1920.1024@0.0.1920.1024" timestamp="1611570851310" />
+    <state width="1878" height="309" key="GridCell.Tab.0.center/-1920.-72.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1611225996020" />
+    <state width="1878" height="335" key="GridCell.Tab.0.center/0.0.1920.1024@0.0.1920.1024" timestamp="1611589508114" />
+    <state width="1878" height="335" key="GridCell.Tab.0.left" timestamp="1611589508113">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1729" height="335" key="GridCell.Tab.0.left/-1440.0.1440.900/0.0.1920.1024@0.0.1920.1024" timestamp="1611160906646" />
+    <state width="1729" height="335" key="GridCell.Tab.0.left/-1920.-49.1920.1057/0.23.1920.1001@0.23.1920.1001" timestamp="1611191327356" />
+    <state width="1878" height="369" key="GridCell.Tab.0.left/-1920.-72.1920.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1611206647741" />
+    <state width="1878" height="309" key="GridCell.Tab.0.left/-1920.-72.1920.1080/0.0.1920.1024@0.0.1920.1024" timestamp="1611570851310" />
+    <state width="1878" height="309" key="GridCell.Tab.0.left/-1920.-72.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1611225996019" />
+    <state width="1878" height="335" key="GridCell.Tab.0.left/0.0.1920.1024@0.0.1920.1024" timestamp="1611589508113" />
+    <state width="1878" height="335" key="GridCell.Tab.0.right" timestamp="1611589508115">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1729" height="335" key="GridCell.Tab.0.right/-1440.0.1440.900/0.0.1920.1024@0.0.1920.1024" timestamp="1611160906647" />
+    <state width="1729" height="335" key="GridCell.Tab.0.right/-1920.-49.1920.1057/0.23.1920.1001@0.23.1920.1001" timestamp="1611191327357" />
+    <state width="1878" height="369" key="GridCell.Tab.0.right/-1920.-72.1920.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1611206647742" />
+    <state width="1878" height="309" key="GridCell.Tab.0.right/-1920.-72.1920.1080/0.0.1920.1024@0.0.1920.1024" timestamp="1611570851310" />
+    <state width="1878" height="309" key="GridCell.Tab.0.right/-1920.-72.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1611225996020" />
+    <state width="1878" height="335" key="GridCell.Tab.0.right/0.0.1920.1024@0.0.1920.1024" timestamp="1611589508115" />
+    <state width="1878" height="335" key="GridCell.Tab.1.bottom" timestamp="1611589508116">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1878" height="335" key="GridCell.Tab.1.bottom/-1920.-72.1920.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1611206624538" />
+    <state width="1878" height="335" key="GridCell.Tab.1.bottom/-1920.-72.1920.1080/0.0.1920.1024@0.0.1920.1024" timestamp="1611564353097" />
+    <state width="1878" height="335" key="GridCell.Tab.1.bottom/-1920.-72.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1611210681518" />
+    <state width="1878" height="335" key="GridCell.Tab.1.bottom/0.0.1920.1024@0.0.1920.1024" timestamp="1611589508116" />
+    <state width="1878" height="335" key="GridCell.Tab.1.center" timestamp="1611589508116">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1878" height="335" key="GridCell.Tab.1.center/-1920.-72.1920.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1611206624537" />
+    <state width="1878" height="335" key="GridCell.Tab.1.center/-1920.-72.1920.1080/0.0.1920.1024@0.0.1920.1024" timestamp="1611564353096" />
+    <state width="1878" height="335" key="GridCell.Tab.1.center/-1920.-72.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1611210681516" />
+    <state width="1878" height="335" key="GridCell.Tab.1.center/0.0.1920.1024@0.0.1920.1024" timestamp="1611589508116" />
+    <state width="1878" height="335" key="GridCell.Tab.1.left" timestamp="1611589508115">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1878" height="335" key="GridCell.Tab.1.left/-1920.-72.1920.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1611206624537" />
+    <state width="1878" height="335" key="GridCell.Tab.1.left/-1920.-72.1920.1080/0.0.1920.1024@0.0.1920.1024" timestamp="1611564353096" />
+    <state width="1878" height="335" key="GridCell.Tab.1.left/-1920.-72.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1611210681514" />
+    <state width="1878" height="335" key="GridCell.Tab.1.left/0.0.1920.1024@0.0.1920.1024" timestamp="1611589508115" />
+    <state width="1878" height="335" key="GridCell.Tab.1.right" timestamp="1611589508116">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1878" height="335" key="GridCell.Tab.1.right/-1920.-72.1920.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1611206624538" />
+    <state width="1878" height="335" key="GridCell.Tab.1.right/-1920.-72.1920.1080/0.0.1920.1024@0.0.1920.1024" timestamp="1611564353097" />
+    <state width="1878" height="335" key="GridCell.Tab.1.right/-1920.-72.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1611210681517" />
+    <state width="1878" height="335" key="GridCell.Tab.1.right/0.0.1920.1024@0.0.1920.1024" timestamp="1611589508116" />
+    <state x="401" y="302" key="SettingsEditor" timestamp="1611562317933">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="401" y="302" key="SettingsEditor/-1440.0.1440.900/0.0.1920.1024@0.0.1920.1024" timestamp="1611148803470" />
+    <state x="401" y="302" key="SettingsEditor/-1920.-72.1920.1080/0.0.1920.1024@0.0.1920.1024" timestamp="1611562317933" />
+    <state x="443" y="135" key="SettingsEditor/-1920.-72.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1611129972342" />
+    <state x="625" y="244" width="670" height="676" key="search.everywhere.popup" timestamp="1611559280430">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="625" y="244" width="670" height="676" key="search.everywhere.popup/-1920.-72.1920.1080/0.0.1920.1024@0.0.1920.1024" timestamp="1611559280430" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ricepo_api_test$Unittests_for_test_1_search_restaurantPageTest_test_search.coverage" NAME="Unittests for test_1_search.restaurantPageTest.test_search Coverage Results" MODIFIED="1611212581904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/restaurantPage" />
+    <SUITE FILE_PATH="coverage/ricepo_api_test$Unittests_for_test_1_search_TestUserLogin.coverage" NAME="Unittests for test_1_search.TestUserLogin Coverage Results" MODIFIED="1611129738532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/restaurantList" />
+    <SUITE FILE_PATH="coverage/ricepo_api_test$runtestcase.coverage" NAME="runtestcase Coverage Results" MODIFIED="1611582220598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ricepo_api_test$Unittests_for_test_1_search_restaurantPageTest_test_02.coverage" NAME="Unittests for test_1_search.restaurantPageTest.test_02 Coverage Results" MODIFIED="1611224130210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/restaurantPage" />
+    <SUITE FILE_PATH="coverage/ricepo_api_test$Unittests_for_test_1_search_restaurantPageTest.coverage" NAME="Unittests for test_1_search.restaurantPageTest Coverage Results" MODIFIED="1611225602899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/restaurantPage" />
+    <SUITE FILE_PATH="coverage/ricepo_api_test$Unittests_in_test_1_search_py.coverage" NAME="Unittests in test_1_search.py Coverage Results" MODIFIED="1611225411554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/restaurantPage" />
+    <SUITE FILE_PATH="coverage/ricepo_api_test$sentEmail.coverage" NAME="sentEmail Coverage Results" MODIFIED="1611568514658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/ricepo_api_test$getAuth.coverage" NAME="getAuth Coverage Results" MODIFIED="1611225380761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+  </component>
+</project>
